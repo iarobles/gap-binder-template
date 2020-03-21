@@ -1,6 +1,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iarobles/gap-binder-template.git/master)
 
+[![codecov](https://codecov.io/gh/iarobles/gap-binder-template/branch/master/graph/badge.svg)](https://codecov.io/gh/iarobles/gap-binder-template)
+
+[![Build Status](https://travis-ci.org/iarobles/gap-binder-template.svg?branch=master)](https://travis-ci.org/iarobles/gap-binder-template)
+
 
 # gap-binder-template
 Template for publishing reproducible GAP experiments in Jupyter notebooks runnable on Binder
