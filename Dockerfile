@@ -12,6 +12,8 @@ RUN mkdir -p $HOME/.gap/pkg
 
 RUN git clone -b ismael https://github.com/yags/yags.git
 
+RUNT cp -rf yags $HOME/.gap/pkg
+
 USER gap
 
 WORKDIR $HOME/mygapproject
