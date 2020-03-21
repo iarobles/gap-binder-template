@@ -12,7 +12,7 @@ RUN jupyter-nbextension enable rise --user --py
 
 #RUN git clone -b ismael https://github.com/iarobles/yags.git $HOME/.gap/pkg
 
-RUN git clone -b ismael https://github.com/iarobles/yags.git
+RUN git clone -b ismael https://github.com/yags/yags.git
 
 USER gap
 
